@@ -1,0 +1,16 @@
+h4 {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+.products {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.css-o69gx8-MuiCardMedia-root {
+  object-fit: contain;
+}
